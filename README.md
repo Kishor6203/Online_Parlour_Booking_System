@@ -2,7 +2,7 @@
 
 A simple and responsive Online Parlour Booking System that allows users to book beauty services easily. Built using HTML, CSS, and JavaScript, this project provides a smooth user interface and basic booking functionality without any backend.
 
-📌 Features
+**📌 Features**
 
 🏠 Attractive homepage with service highlights
 
@@ -18,7 +18,7 @@ A simple and responsive Online Parlour Booking System that allows users to book 
 
 🎨 Clean and modern UI
 
-🛠️ Technologies Used
+**🛠️ Technologies Used**
 
 HTML5 – Structure of the website
 
@@ -26,7 +26,7 @@ CSS3 – Styling and layout
 
 JavaScript (Vanilla JS) – Interactivity and validation
 
-✨ Future Improvements
+**✨ Future Improvements**
 
 🔐 User authentication (Login/Signup)
 
@@ -34,11 +34,10 @@ JavaScript (Vanilla JS) – Interactivity and validation
 
 💳 Online payment integration
 
-
 📧 Email/SMS booking confirmation
 
 📊 Admin dashboard
 
-📸 Screenshots
+**📸 Screenshots**
 
 <img width="1366" height="5176" alt="Screenshort" src="https://github.com/user-attachments/assets/64c46a13-1662-4e9c-ae17-aef194a22557" />
